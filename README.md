@@ -48,3 +48,9 @@ This project demonstrates practical skills in data preprocessing, exploratory da
 
 ## Author
 Akash V
+
+🎓 M.Sc. Data Science
+
+💻 Python | Machine Learning | Artificial Intelligence
+
+📊 Turning Data into Intelligent Solutions
